@@ -1,1 +1,0 @@
-vs_community.exe --quiet --wait --norestart
