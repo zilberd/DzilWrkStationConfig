@@ -1,9 +1,8 @@
 # DzilWrkStationConfig
 
-Repo for config scripts:
+Repo for VMs config scripts:
 
-Local machine
+* Local machine
+* Local WorkStation (VM)
+* Azure WorkStation
 
-Local WorkStation (VM)
-
-Azure WorkStation
